@@ -1,2 +1,2 @@
 # frostedopmod
-Project moved.
+Project moved to https://github.com/savnith/frostedopmod
